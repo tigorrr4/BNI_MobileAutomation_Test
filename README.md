@@ -31,7 +31,7 @@
 
 1. Clone the repository
 ```bash
-  $ git clone https://github.com/QE-MUSICLAB/Kelompok_B_WEB_Testing_Musiclab.git
+  $ git clone (https://github.com/tigorrr4/BNI_MobileAutomation_Test.git)
 ```
 2. Open  this Project Repository on Intellij IDE and Run this on the IDE terminal
 
