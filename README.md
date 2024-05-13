@@ -5,6 +5,8 @@
 
 
 #### Test Documentation Spreadsheet
+
+#### Coverage Report
 ![report-api-chats](https://github.com/tigorrr4/BNI_MobileAutomation_Test/blob/master/Report/Test%20Case.png)
 
 #### Automation Testing When Run in Intellij IDE
