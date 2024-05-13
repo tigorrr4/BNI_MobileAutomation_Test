@@ -3,8 +3,6 @@
 
 ## 📝 Reports
 
-#### Coverage Report
-![report-api-cpverage](https://github.com/QE-MUSICLAB/Kelompok_B_WEB_Testing_Musiclab/blob/master/Report%20Pic/Screenshot%20(1064).png)
 
 #### Test Documentation Spreadsheet
 ![report-api-chats](https://github.com/QE-MUSICLAB/Kelompok_B_WEB_Testing_Musiclab/blob/master/Report%20Pic/Screenshot%20(1099).png)
