@@ -1,10 +1,11 @@
 ## 📓 Testing Documentation
-[Test Case WEB](https://docs.google.com/spreadsheets/d/1IEFdiWdudUuurplGhrcvsn3SCorYccxwSBP3I_1ae3M/edit?usp=sharing)
+[Test Case](https://docs.google.com/spreadsheets/d/1IEFdiWdudUuurplGhrcvsn3SCorYccxwSBP3I_1ae3M/edit?usp=sharing)
 
 ## 📝 Reports
 
 
 #### Test Documentation Spreadsheet
+![report-api-chats]https://github.com/tigorrr4/BNI_MobileAutomation_Test/blob/master/Report/tc.png
 
 #### Coverage Report
 ![report-api-chats](https://github.com/tigorrr4/BNI_MobileAutomation_Test/blob/master/Report/Test%20Case.png)
