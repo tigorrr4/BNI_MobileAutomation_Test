@@ -5,7 +5,7 @@
 
 
 #### Test Documentation Spreadsheet
-![report-api-chats]https://github.com/tigorrr4/BNI_MobileAutomation_Test/blob/master/Report/tc.png
+![report-api-chats](https://github.com/tigorrr4/BNI_MobileAutomation_Test/blob/master/Report/tc.png)
 
 #### Coverage Report
 ![report-api-chats](https://github.com/tigorrr4/BNI_MobileAutomation_Test/blob/master/Report/Test%20Case.png)
