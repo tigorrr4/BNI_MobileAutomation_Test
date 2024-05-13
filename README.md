@@ -5,10 +5,10 @@
 
 
 #### Test Documentation Spreadsheet
-![report-api-chats](https://github.com/QE-MUSICLAB/Kelompok_B_WEB_Testing_Musiclab/blob/master/Report%20Pic/Screenshot%20(1099).png)
+![report-api-chats](https://github.com/tigorrr4/BNI_MobileAutomation_Test/blob/master/Report/Test%20Case.png)
 
 #### Automation Testing When Run in Intellij IDE
-![report-api-runningtest](https://github.com/QE-MUSICLAB/Kelompok_B_WEB_Testing_Musiclab/blob/master/Report%20Pic/Screenshot%20(1068).png)
+![report-api-runningtest](https://github.com/tigorrr4/BNI_MobileAutomation_Test/blob/master/Report/Run%20Intelij.png)
 
 
 ## 🛠 Tools
