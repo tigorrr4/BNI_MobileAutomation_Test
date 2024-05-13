@@ -1,5 +1,5 @@
 ## 📓 Testing Documentation
-[Test Case WEB]((https://docs.google.com/spreadsheets/d/1IEFdiWdudUuurplGhrcvsn3SCorYccxwSBP3I_1ae3M/edit?usp=sharing))
+[Test Case WEB](https://docs.google.com/spreadsheets/d/1IEFdiWdudUuurplGhrcvsn3SCorYccxwSBP3I_1ae3M/edit?usp=sharing)
 
 ## 📝 Reports
 
